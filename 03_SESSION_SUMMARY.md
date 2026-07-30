@@ -49,3 +49,18 @@ The Home chapter is not an isolated sentimental interlude. It should have a last
 ## Risk Identified
 
 The project is accumulating many strong ideas. To prevent drift, every future addition must strengthen an existing pillar and have a unique narrative function.
+
+## APD and Ecosystem Phase
+
+The APD was established as a centralized, generally ethical, citywide institution. Its conflict with Daniel arises from finite scope, legal responsibility, and the need for resolution—not from universal corruption.
+
+Daniel's cross-case pattern recognition was refined as the ability that both made him valuable to APD and eventually incompatible with its operational boundaries.
+
+The greater mystery was reframed as a distributed network that exploits fragmentation among functioning institutions. APD is not the conspiracy. Daniel reveals the pattern; APD and other civic institutions must ultimately act on evidence through lawful processes.
+
+Ashcroft's city systems were organized into six ecosystems: Government, Justice, Health, Commerce, Information, and Community. The ecosystem framework exists to create depth through recurring interactions rather than expand the world without control.
+
+Two design principles were added:
+
+- Complexity should emerge from relationships, not the number of systems.
+- The conspiracy should feel inevitable in hindsight and emerge through believable connections among standalone cases.

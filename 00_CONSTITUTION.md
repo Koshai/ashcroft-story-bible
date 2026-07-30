@@ -61,6 +61,18 @@ Not every crime belongs to the main conspiracy, but every meaningful action crea
 
 Ashcroft is imperfect, but it is worth fighting for. The story should not conclude that corruption makes goodness meaningless. It should show why good people still matter.
 
+## Article XI — Intentional Scope
+
+Every new location, organization, mechanic, or character must strengthen the existing world before expanding it. Ashcroft grows primarily by deepening relationships among familiar elements.
+
+> Complexity should emerge from relationships, not from the number of systems.
+
+## Article XII — The Greater Mystery Emerges
+
+The main conspiracy is a distributed network of interests, dependencies, and ordinary wrongdoing rather than a single secret society that controls everything. It should feel inevitable in hindsight and be discovered through believable connections among cases and ecosystems.
+
+Institutions may miss the whole while competently handling their assigned parts. The mystery asks not only who acted, but why no one could see the complete pattern.
+
 ## Core Design Pillars
 
 ### 1. The Detective

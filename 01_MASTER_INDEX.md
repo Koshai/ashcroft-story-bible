@@ -49,9 +49,18 @@
 - **LOC-016** — Daniel's office
 - **LOC-017** — Sullivan's Garage
 
+### Ecosystems
+
+- **ECO-001** — Government
+- **ECO-002** — Justice
+- **ECO-003** — Health
+- **ECO-004** — Commerce
+- **ECO-005** — Information
+- **ECO-006** — Community
+
 ### Organizations
 
-- **ORG-001** — Ashcroft Police Department
+- **ORG-001** — Ashcroft Police Department — CANON; centralized citywide department
 - **ORG-002** — Ashcroft Port Authority
 - **ORG-003** — Ashcroft University
 - **ORG-004** — Ashcroft Medical Center
@@ -87,4 +96,4 @@ Daniel Mercer, a former APD investigative analyst, has opened a struggling priva
 
 Daniel's personal circle does not solve cases for him. They shape the detective capable of solving them.
 
-The main conspiracy is deliberately unresolved. It must be historically rooted, distributed across competing interests, and larger than Daniel without turning into a simplistic secret society.
+The exact truth of the main conspiracy remains unresolved. Its form is now established as a distributed network that exploits fragmentation among otherwise functioning institutions. Daniel uncovers the pattern; lawful institutions must ultimately act on it.

@@ -1,5 +1,34 @@
 # Changelog
 
+## Version 0.2 — APD and Ecosystem Foundation
+
+### Added
+
+- Detailed ORG-001 APD overview
+- APD culture, traditions, and unwritten rules
+- Six-ecosystem framework for Ashcroft City
+- Daniel Mercer detective-philosophy record
+- Centralized APD decision
+- Intentional-scope design rule
+- Distributed emergent-conspiracy architecture
+- APD long-term role in exposing and resolving the greater mystery
+
+### Canonized
+
+- APD as a generally ethical and capable institution
+- APD as one centralized citywide department
+- Daniel as a former Intelligence Analysis specialist within APD's investigative structure
+- Institutional fragmentation as a key reason the greater pattern remains hidden
+- Daniel uncovers the network, while civic institutions perform lawful resolution
+- Government, Justice, Health, Commerce, Information, and Community as Ashcroft's six core ecosystems
+
+### Still Open
+
+- APD history, scale, leaders, mentor, former partner, and Daniel's exact departure timeline
+- Exact actors, purpose, origin, and factions of the hidden network
+- Detailed organizations within each ecosystem
+- Identities of the ecosystem's recurring representatives
+
 ## Version 0.1 — Foundation Consolidation
 
 ### Added

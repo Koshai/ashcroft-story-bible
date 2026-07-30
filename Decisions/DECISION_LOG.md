@@ -54,3 +54,39 @@
 
 **Chosen:** Git-ready Markdown Story Bible with immutable canon, living canon, sandbox, IDs, decision logs, and changelog  
 **Reason:** Prevents continuity drift as the cast, cases, and world expand.
+
+## DEC-011 — APD Moral Foundation
+
+**Chosen:** APD is a fundamentally legitimate and generally ethical institution.  
+**Reason:** The story explores institutional limits and fragmented responsibility rather than reducing professional conflict to universal police corruption.
+
+## DEC-012 — APD Structure
+
+**Options:** Centralized citywide department; semi-independent precinct cultures  
+**Chosen:** Centralized citywide department  
+**Reason:** Keeps the cast and world focused, supports recurring professional relationships, and allows investigations to remain interconnected across districts.
+
+## DEC-013 — Intentional Scope
+
+**Chosen:** New elements must deepen the existing world before expanding it.  
+**Reason:** Complexity should emerge from relationships rather than from an uncontrolled number of characters, locations, factions, or systems.
+
+## DEC-014 — Greater Mystery Structure
+
+**Chosen:** Distributed network rather than a singular secret organization  
+**Reason:** Allows ordinary crimes, institutions, and transactions to form a larger pattern without requiring one mastermind or total institutional control.
+
+## DEC-015 — APD Role in the Greater Mystery
+
+**Chosen:** APD is initially limited by scope, later becomes an institutional ally.  
+**Reason:** Daniel's role is to reveal the cross-case pattern; arrests, prosecution, and public justice remain collective civic functions.
+
+## DEC-016 — City Ecosystem Framework
+
+**Chosen:** Six core ecosystems — Government, Justice, Health, Commerce, Information, and Community  
+**Reason:** Provides a compact structure for connecting organizations and generating stories while preserving depth-over-breadth scope control.
+
+## DEC-017 — Detective Philosophy Record
+
+**Chosen:** Track Daniel's evolving principles separately from gameplay perks.  
+**Reason:** Daniel grows through perspective, relationships, mistakes, and reflection rather than conventional upgrades.

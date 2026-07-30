@@ -32,7 +32,10 @@ This repository is the single source of truth for:
 - [`01_MASTER_INDEX.md`](01_MASTER_INDEX.md) — Central index and ID registry
 - [`02_CHANGELOG.md`](02_CHANGELOG.md) — Canon change history
 - [`03_SESSION_SUMMARY.md`](03_SESSION_SUMMARY.md) — Consolidated summary of the founding discussion
-- [`World/`](World/) — City, history, districts, institutions, and timeline
+- [`World/`](World/) — City, history, districts, and timeline
+- [`Ecosystems/`](Ecosystems/) — Functional systems connecting Ashcroft institutions
+- [`Organizations/`](Organizations/) — Detailed organization dossiers
+- [`Philosophy/`](Philosophy/) — Daniel's evolving investigative principles
 - [`Characters/`](Characters/) — Character dossiers
 - [`Relationships/`](Relationships/) — Relationship dynamics and narrative functions
 - [`Cases/`](Cases/) — Individual cases and case architecture
