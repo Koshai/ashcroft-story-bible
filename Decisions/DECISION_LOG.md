@@ -90,3 +90,44 @@
 
 **Chosen:** Track Daniel's evolving principles separately from gameplay perks.  
 **Reason:** Daniel grows through perspective, relationships, mistakes, and reflection rather than conventional upgrades.
+
+## DEC-018 — Ordinary First
+
+**Chosen:** Every institution and place must possess a credible everyday purpose before mystery relevance.
+**Reason:** Prevents world elements from feeling like plot machinery.
+
+## DEC-019 — People Before Plot
+
+**Chosen:** Recurring citizens have independent goals and lives.
+**Reason:** Human relationships create believable testimony, consequence, and social context.
+
+## DEC-020 — Investigation-First Priority
+
+**Chosen:** Gameplay and case requirements drive future worldbuilding.
+**Reason:** Keeps immersion balanced with case engagement and limits irrelevant lore.
+
+## DEC-021 — Non-RPG Direction
+
+**Chosen:** Narrative investigation game with player reasoning, not statistics or skill trees.
+**Reason:** The intended fantasy is authentic observation, analysis, whiteboarding, and deduction.
+
+## DEC-022 — Perspective Providers
+
+**Chosen:** Recurring characters ask better questions but do not solve cases.
+**Reason:** Preserves player ownership of deductions while integrating relationships.
+
+## DEC-023 — Reasonable Confidence
+
+**Options:** Evidence threshold; complete understanding; strongest supported explanation.
+**Chosen:** Strongest supported explanation.
+**Reason:** Reflects investigation under uncertainty and allows meaningful unresolved details.
+
+## DEC-024 — Demand-Driven Worldbuilding
+
+**Chosen:** Cases may add or revise people, locations, organizations, social structures, and culture.
+**Reason:** Allows Ashcroft to grow organically around playable needs while maintaining canon discipline.
+
+## DEC-025 — Pre-Production Structure
+
+**Chosen:** Add controlling `Design/` and `Production/` layers without deleting supporting canon folders.
+**Reason:** Preserves accumulated work while making player experience and production planning authoritative.

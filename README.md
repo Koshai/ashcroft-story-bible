@@ -1,49 +1,66 @@
-# Ashcroft City Story Bible
+# Ashcroft City Project Bible
 
-A living narrative and game-design repository for **Ashcroft City**, a grounded neo-noir detective game centered on deduction, human consequences, and a city shaped by layered history.
+A living game-design, narrative, world, and production repository for **Ashcroft City**, a grounded top-down pixel-art investigation game.
 
-## Purpose
+## Current Phase
 
-This repository is the single source of truth for:
+**Pre-Production — Game Spine and Investigation Framework**
 
-- Immutable creative principles
-- Living world and character canon
-- Case and conspiracy architecture
-- Gameplay systems
-- Decision history
-- Open questions and sandbox ideas
+## North Star
+
+> Ashcroft City is not a game about finding every highlighted clue. It is a game about learning how to think like a detective.
+
+## Repository Layers
+
+### Controlling Design
+
+- `00_CONSTITUTION.md` — Immutable creative and gameplay rules
+- `Design/` — Vision, player experience, game spine, investigation, case, level, and progression frameworks
+- `Production/` — Pre-production milestones and planning
+
+### Playable Content
+
+- `Cases/` — Case templates and individual investigations
+- `Gameplay/` — Detailed gameplay-system specifications
+
+### Supporting Canon
+
+- `Characters/`
+- `Relationships/`
+- `Neighborhoods/`
+- `World/`
+- `Ecosystems/`
+- `Organizations/`
+- `Conspiracy/`
+- `Philosophy/`
+
+### Governance
+
+- `01_MASTER_INDEX.md`
+- `02_CHANGELOG.md`
+- `03_SESSION_SUMMARY.md`
+- `Decisions/`
+- `Sandbox/`
+
+## Development Rule
+
+Cases and player experience drive future worldbuilding. New people, buildings, areas, organizations, social structures, and cultural details are created or modified when investigations, levels, or consequences require them.
 
 ## Canon States
 
-- **CANON** — Approved and established.
-- **PROPOSED** — Strong candidate, not yet approved.
-- **OPEN** — Intentionally unresolved.
-- **RETIRED** — Previously considered or established, then removed.
+- **CANON** — Approved and established
+- **CANON FOUNDATION** — Approved direction requiring later detail
+- **PROPOSED** — Candidate, not approved
+- **OPEN** — Intentionally unresolved
+- **RETIRED** — Deliberately removed or replaced
 
-## Canon Layers
+## Immediate Next Milestone
 
-1. **Immutable Canon** — Core identity, pillars, constitution, and Daniel's foundational character.
-2. **Living Canon** — Characters, relationships, districts, institutions, timelines, and cases that may be refined.
-3. **Sandbox** — Experiments, alternatives, and unapproved ideas.
+Lock the Game Spine:
 
-## Repository Map
-
-- [`00_CONSTITUTION.md`](00_CONSTITUTION.md) — Immutable creative rules
-- [`01_MASTER_INDEX.md`](01_MASTER_INDEX.md) — Central index and ID registry
-- [`02_CHANGELOG.md`](02_CHANGELOG.md) — Canon change history
-- [`03_SESSION_SUMMARY.md`](03_SESSION_SUMMARY.md) — Consolidated summary of the founding discussion
-- [`World/`](World/) — City, history, districts, and timeline
-- [`Ecosystems/`](Ecosystems/) — Functional systems connecting Ashcroft institutions
-- [`Organizations/`](Organizations/) — Detailed organization dossiers
-- [`Philosophy/`](Philosophy/) — Daniel's evolving investigative principles
-- [`Characters/`](Characters/) — Character dossiers
-- [`Relationships/`](Relationships/) — Relationship dynamics and narrative functions
-- [`Cases/`](Cases/) — Individual cases and case architecture
-- [`Conspiracy/`](Conspiracy/) — Objective truth, factions, and hidden timeline
-- [`Gameplay/`](Gameplay/) — Detective, evidence, relationship, and reflection systems
-- [`Decisions/`](Decisions/) — Major choices and rationale
-- [`Sandbox/`](Sandbox/) — Future and discarded ideas
-
-## Working Rule
-
-Every new character, mechanic, case, or location must strengthen at least one established pillar. If it does not, it must be revised, merged, moved to the sandbox, or removed.
+- Number of acts
+- Target case count
+- Target game length
+- Case curriculum
+- Mechanic progression
+- Character and conspiracy pacing

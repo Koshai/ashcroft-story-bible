@@ -1,48 +1,75 @@
-# Update Manifest — 2026-07-30
+# Pre-Production Update Manifest — 2026-08-01
 
-Copy the contents of this package over the root of `ashcroft-story-bible` and allow matching files to be replaced.
+## Purpose
 
-## Added
+This package transitions the repository from worldbuilding-first development into formal game pre-production.
 
-- `Ecosystems/README.md`
-- `Organizations/APD.md`
-- `Organizations/APD_Culture.md`
-- `Philosophy/Detective_Philosophy.md`
+## Add
 
-## Modified
+- `Design/00_Game_Vision.md`
+- `Design/01_Player_Experience.md`
+- `Design/02_Game_Spine.md`
+- `Design/03_Core_Loop.md`
+- `Design/04_Investigation_Framework.md`
+- `Design/05_Case_Framework.md`
+- `Design/06_Level_Design.md`
+- `Design/07_Progression.md`
+- `Design/08_Design_Principles.md`
+- `Production/00_Preproduction_Roadmap.md`
+- `Cases/CASE_TEMPLATE.md`
+- `Ecosystems/Commerce.md`
+- `Organizations/Commerce/Ashcroft_Chamber_of_Commerce.md`
+- `Neighborhoods/Eastside_Flats.md`
 
+## Modify
+
+- `README.md`
 - `00_CONSTITUTION.md`
 - `01_MASTER_INDEX.md`
 - `02_CHANGELOG.md`
 - `03_SESSION_SUMMARY.md`
-- `README.md`
-- `World/Organizations.md`
-- `Conspiracy/Master_Truth.md`
-- `Conspiracy/Factions.md`
+- `Cases/Case_Architecture.md`
+- `Gameplay/Detective_System.md`
+- `Gameplay/Whiteboard_System.md`
 - `Decisions/DECISION_LOG.md`
+- `World/Districts.md`
 
-## Deleted
+## Delete
 
-- None
+None. The restructuring is additive to preserve existing canon and Git history.
+
+## Important Open Items
+
+The following are intentionally not canonized yet:
+
+- Exact act count
+- Exact case count
+- Target total game length
+- Full case curriculum
+- Exact Case 001 premise
+- Exact Chamber leadership
+- Detailed Eastside Flats citizens and landmarks
 
 ## Suggested Commit
 
 ```text
-feat(world): establish APD and city ecosystem canon
+feat(preproduction): establish investigation-first project framework
 
-- define centralized APD structure and culture
-- establish APD role in the greater mystery
-- add six-system city ecosystem framework
-- canonize intentional scope and emergent conspiracy rules
-- add Daniel Mercer detective philosophy record
-- update indexes, decisions, session summary, and changelog
+- add game vision, player experience, and game spine documents
+- canonize non-RPG investigation and reasonable confidence
+- add case, level, and progression frameworks
+- establish demand-driven worldbuilding
+- add Commerce, Chamber, and Eastside Flats foundations
+- update constitution, indexes, decisions, and gameplay systems
 ```
 
-## Commands
+## Apply
+
+Extract the changed-files ZIP into the repository root and replace existing files. Then run:
 
 ```bash
 git status
 git add .
-git commit -m "feat(world): establish APD and city ecosystem canon"
+git commit -m "feat(preproduction): establish investigation-first project framework"
 git push origin master
 ```

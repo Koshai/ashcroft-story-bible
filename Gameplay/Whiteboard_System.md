@@ -1,34 +1,25 @@
 # SYS-003 — Whiteboard / Deduction Board
 
+**Status:** CANON FOUNDATION
+
 ## Purpose
 
-The whiteboard is the central external representation of Daniel's thinking.
+The whiteboard is the central external representation of player reasoning. Everything gathered during an investigation may feed into it, but the board does not automatically create conclusions.
 
-## Potential Elements
+## Core Structures
 
-- People
+- People and relationships
 - Locations
-- Evidence
-- Events
-- Timelines
-- Relationships
+- Events and timelines
+- Information confidence
 - Contradictions
-- Hypotheses
-- Unanswered questions
+- Competing hypotheses
+- Outstanding questions
 
-## Design Goal
+## Player Ownership
 
-The player should build and revise theories, not merely fill predetermined connection slots.
+The player organizes information, creates theories, tests them against verified facts, and revises them. The board may expose unsupported claims or unresolved contradictions, but must not reveal the correct solution.
 
-## Growth Integration
+## No RPG Layer
 
-After Daniel gains new perspectives, the board may support new categories of questions:
-
-- Context
-- Consequences
-- Alternative path
-- Missing viewpoint
-- Moral cost
-- Who benefits / who pays
-
-These should emerge from narrative growth without becoming simplistic skill-tree buttons.
+The whiteboard is not a perk tree and does not unlock deductions through character statistics. Its power grows because cases demand more complex forms of organization and because the player becomes more capable.

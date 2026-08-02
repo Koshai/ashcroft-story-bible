@@ -27,7 +27,8 @@
 
 ### Cases
 
-- **CASE-001** — Opening missing-property case — foundation only
+- **CASE-001** — Opening case — exact premise OPEN
+- **CASE-TEMPLATE** — Canon reasoning and production template
 
 ### Locations
 
@@ -67,6 +68,7 @@
 - **ORG-005** — Ashcroft Chronicle
 - **ORG-006** — Ashcroft Financial Exchange — PROPOSED
 - **ORG-007** — Metro Transit Authority — PROPOSED
+- **ORG-COM-001** — Ashcroft Chamber of Commerce — CANON FOUNDATION
 
 ### Relationships
 
@@ -77,6 +79,17 @@
 - **REL-005** — Elaine ↔ Thomas
 - **REL-006** — Daniel ↔ Mike
 - **REL-007** — Daniel ↔ Romantic Partner — OPEN
+
+### Design Documents
+
+- **DES-001** — Game Vision
+- **DES-002** — Player Experience
+- **DES-003** — Game Spine — OPEN
+- **DES-004** — Core Investigation Loop
+- **DES-005** — Investigation Framework
+- **DES-006** — Case Framework
+- **DES-007** — Level Design Philosophy
+- **DES-008** — Progression Philosophy
 
 ### Gameplay Systems
 
@@ -97,3 +110,7 @@ Daniel Mercer, a former APD investigative analyst, has opened a struggling priva
 Daniel's personal circle does not solve cases for him. They shape the detective capable of solving them.
 
 The exact truth of the main conspiracy remains unresolved. Its form is now established as a distributed network that exploits fragmentation among otherwise functioning institutions. Daniel uncovers the pattern; lawful institutions must ultimately act on it.
+
+## Current Production Phase
+
+Pre-production is focused on locking the Game Spine, case curriculum, act structure, target case count, game length, and Case 001 vertical slice.

@@ -48,7 +48,7 @@ Factories, freight lines, utilities, storage facilities, and abandoned industria
 
 ## Eastside Flats — LOC-014
 
-Working-class district heavily affected by industrial decline. Childhood home of Daniel and Becca; current home of Becca and Elaine; location of Mike's garage.
+Working- and middle-class district shaped by industrial decline and generational continuity. See `Neighborhoods/Eastside_Flats.md`.
 
 ## Hidden Locations — PROPOSED
 

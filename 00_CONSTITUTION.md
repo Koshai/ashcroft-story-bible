@@ -73,6 +73,22 @@ The main conspiracy is a distributed network of interests, dependencies, and ord
 
 Institutions may miss the whole while competently handling their assigned parts. The mystery asks not only who acted, but why no one could see the complete pattern.
 
+## Article XIII — Investigation Comes First
+
+Ashcroft is a narrative investigation game, not an RPG. The player performs observation, organization, hypothesis building, contradiction testing, and deduction. Worldbuilding, character work, and narrative pacing must support this experience.
+
+## Article XIV — The Player Earns the Conclusion
+
+Daniel must not automatically solve the mystery. Recurring characters provide perspective rather than answers. The game gives the player truthful information and a fair opportunity to reason from it.
+
+## Article XV — Reasonable Confidence
+
+A case advances when the player's theory is the strongest explanation supported by available verified evidence. Absolute certainty is not required, and unresolved uncertainty may affect consequences.
+
+## Article XVI — Demand-Driven Worldbuilding
+
+Cases and levels determine which characters, locations, organizations, social structures, and cultural details require development. Living Canon may be expanded or revised when gameplay demonstrates a genuine need.
+
 ## Core Design Pillars
 
 ### 1. The Detective

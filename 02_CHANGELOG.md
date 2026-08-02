@@ -69,3 +69,14 @@
 - Full conspiracy truth and factions
 - CASE-001 details
 - Exact map and district boundaries
+
+## 2026-08-01 — Pre-Production Transition
+
+- Reframed repository as a complete Project Bible.
+- Added controlling Design and Production layers.
+- Canonized investigation-first, non-RPG direction.
+- Canonized Reasonable Confidence and perspective-provider rules.
+- Added case and level design frameworks.
+- Added demand-driven worldbuilding.
+- Added Commerce foundation, Chamber of Commerce, and Eastside Flats foundation.
+- Left act count, case count, and game length OPEN for the Game Spine milestone.

@@ -64,3 +64,11 @@ Two design principles were added:
 
 - Complexity should emerge from relationships, not the number of systems.
 - The conspiracy should feel inevitable in hindsight and emerge through believable connections among standalone cases.
+
+## Pre-Production Transition Summary
+
+The project shifted from world-first development to investigation-first pre-production. Ashcroft remains a living city, but future citizens, locations, institutions, and cultural details will be developed primarily in response to case, level, relationship, and consequence requirements.
+
+The game is now explicitly defined as a narrative investigation experience rather than an RPG. Player growth is cognitive. The whiteboard is the primary reasoning space, and cases advance through Reasonable Confidence rather than total certainty.
+
+The next milestone is the Game Spine: acts, case count, playtime, case curriculum, mechanic pacing, relationship progression, and greater-pattern visibility.

@@ -1,4 +1,4 @@
-# SYS-001 — Detective System
+# Core Investigation Loop
 
 **Status:** CANON
 
@@ -18,7 +18,3 @@
 ## Loop Principle
 
 Being wrong is part of investigation. The game should describe why a theory is weak or incomplete without simply declaring the player unintelligent.
-
-## Reference
-
-The controlling design source is `Design/03_Core_Loop.md`.

@@ -1,37 +1,23 @@
 # Case Architecture
 
-## Required Truth Layers
+**Status:** CANON
 
-Each case should track:
+The controlling case specification is `Cases/CASE_TEMPLATE.md`.
 
-1. **Objective Truth** — What actually happened
-2. **Character Knowledge** — What each person knows, believes, hides, or misunderstands
-3. **Player Knowledge** — What the player has discovered, inferred, or concluded
+## Truth Layers
 
-## Case Evaluation
+1. Objective Truth
+2. Character Knowledge and Belief
+3. Player Knowledge and Theory
 
-A case should meaningfully contribute to at least two or three pillars:
+## Fairness Standard
 
-- Detective challenge
-- Daniel's personal development
-- Ashcroft world revelation
-- Truth / justice / morality theme
+A case may contain lies, omissions, mistaken memories, and truthful misdirection. It must nevertheless provide a fair path for the player to reach reasonable confidence through evidence and reasoning.
 
-## Failure Structure
+## Consequence Standard
 
-Wrong conclusions should produce consequences rather than automatic failure screens.
+Wrong, partial, or delayed conclusions should create narrative consequences rather than automatic game-over states whenever production scope permits.
 
-Possible outcomes:
+## Pattern Rule
 
-- Wrong accusation
-- Damaged trust
-- Evidence lost
-- Client dissatisfied
-- Innocent person harmed
-- Guilty person escapes
-- Partial truth discovered
-- Case remains unresolved
-
-## Conspiracy Rule
-
-Not every case connects to the main conspiracy. Cases may share the same city conditions, institutions, or themes without sharing a mastermind.
+Not every case connects to the greater mystery. Every case must stand on its own.
